@@ -1,12 +1,12 @@
-# Pre-work - *Memory Game*
+# Project - *Snake Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Snake Game** the player uses the arrow keys to move a "snake" around the board. 
 
 Submitted by: **Emi Jr. Anyakpor**
 
 Time spent: **5** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/mousy-tattered-camel?path=script.js%3A1%3A0)
+
 
 ## Required Functionality
 
